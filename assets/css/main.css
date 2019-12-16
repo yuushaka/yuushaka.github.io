@@ -3,3 +3,17 @@
   padding:30px 0px;
   margin:auto;
 }
+.user.info .name{
+  line-height:2em;
+  font-size:25px;
+  font-weight:bold;
+  padding:0px;
+  margin:0px;
+}
+.user.info .works{
+  color:#666;
+  line-height:2em;
+  font-size:15px;
+  padding:0px;
+  margin:0px;
+}
